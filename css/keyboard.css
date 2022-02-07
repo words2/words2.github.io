@@ -57,7 +57,7 @@
 
 .keyboard .tile:not(.present, .correct, .wrong, .double):hover,
 .keyboard .tile:not(.present, .correct, .wrong, .double):active {
-	background: #d0d0d7;
+	background: #C0C0C0;
 }
 
 .keyboard .tile.correct,
