@@ -33,7 +33,7 @@
 	width: 3rem;
 	height: 4rem;
 
-	color: #000;
+	color: #D7DADD;
 	font-size: 16px;
 
 	border-width: 1px;
@@ -52,7 +52,7 @@
 }
 
 .keyboard .tile:not(.present, .correct, .wrong, .double) {
-	background: #bbbbbb;
+	background: #818385;
 }
 
 .keyboard .tile:not(.present, .correct, .wrong, .double):hover,
@@ -69,7 +69,7 @@
 
 .keyboard .double {
 	width: 6rem;
-	background: #bbbbbb;
+	background: #818385;
 }
 
 .keyboard .large {
