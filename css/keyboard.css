@@ -97,7 +97,6 @@
 	} */
 
 	.keyboard .tile {
-		font-size: 0.875rem;
 		width: 2rem;
 		height: 3rem;
 	}
@@ -119,8 +118,7 @@
 
 /* TODO: DOESNT SEEM TO WORK ON IPHONE */
 @media only screen and ((max-width: 480px) or (max-height: 700px)) {
-	.keyboard .tile {
-		font-size: 0.875rem;
+	.keyboard .tile {75rem;
 		width: 2rem;
 		height: 3rem;
 	}
