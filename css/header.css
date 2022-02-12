@@ -14,7 +14,7 @@ header p {
 }
 
 header h1 {
-	color: #538d4e !important;
+	color: #818385;
 	font-size: 1.75rem;
 	font-weight: 900;
 	letter-spacing: 0.15rem;
@@ -56,6 +56,5 @@ header a {
 		color: #818385;
 		padding: 1px 2px;
 		border-radius: 1px;
-
 	}
 }
