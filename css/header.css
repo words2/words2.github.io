@@ -26,7 +26,7 @@ header h1 {
 
 header p {
 	color: #818385;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: bold;
 }
 
@@ -49,7 +49,7 @@ header a {
 	}
 
 	header p {
-		font-size: 0.65rem;
+		font-size: 1.125rem;
 	}
 
 	header p span {
