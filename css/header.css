@@ -13,8 +13,8 @@ header p {
 	margin: 0;
 }
 
-header h3 {
-	color: #538d4e;
+header h1 {
+	color: #538d4e !important;
 	font-size: 1.75rem;
 	font-weight: 900;
 	letter-spacing: 0.15rem;
