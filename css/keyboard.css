@@ -38,7 +38,7 @@
 
 	border-width: 1px;
 	border-radius: 8px;
-	
+
 	border-color: #565758;
 
 	cursor: pointer;
@@ -98,7 +98,7 @@
 	} */
 
 	.keyboard .tile {
-		font-size: 1rem;
+		font-size: 0.75;
 		width: 2rem;
 		height: 3rem;
 	}
@@ -121,7 +121,7 @@
 /* TODO: DOESNT SEEM TO WORK ON IPHONE */
 @media only screen and ((max-width: 480px) or (max-height: 700px)) {
 	.keyboard .tile {
-		font-size: 1rem;
+		font-size: 0.75rem;
 		width: 2rem;
 		height: 3rem;
 	}
