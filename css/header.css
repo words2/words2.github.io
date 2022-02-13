@@ -14,7 +14,7 @@ header p {
 }
 
 header h1 {
-	color: #818385;
+	color: #D7DADD;
 	font-size: 1.75rem;
 	font-weight: 900;
 	letter-spacing: 0.15rem;
@@ -42,7 +42,7 @@ header a {
 /* HEADER RESPONSIVE */
 @media only screen and (max-width: 600px) {
 	header h1 {
-		color: #818385;
+		color: #D7DADD;
 		font-size: 1.5rem;
 		letter-spacing: 0.05rem;
 	}
