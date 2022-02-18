@@ -70,7 +70,6 @@
 }
 
 .keyboard .double {
-	font-size: 16px;
 	width: 6rem;
 	background: #818385;
 }
@@ -81,7 +80,7 @@
 }
 
 .keyboard .enter {
-	font-size: 16px;
+	font-size: 1rem;
 }
 
 /* KEYBOARD RESPONSIVE */
@@ -106,7 +105,6 @@
 	}
 
 	.keyboard .double {
-		font-size: 0.875rem;
 		width: 3.75rem;
 	}
 
