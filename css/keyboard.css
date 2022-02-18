@@ -33,6 +33,9 @@
 	width: 2.8rem;
 	height: 3.8rem;
 
+	width: 2.5rem;
+	height: 3.5rem;
+
 	color: #D7DADD;
 	font-size: 16px;
 
@@ -67,6 +70,7 @@
 }
 
 .keyboard .double {
+	font-size: 16px;
 	width: 6rem;
 	background: #818385;
 }
@@ -77,7 +81,7 @@
 }
 
 .keyboard .enter {
-	font-size: 1rem;
+	font-size: 16px;
 }
 
 /* KEYBOARD RESPONSIVE */
@@ -102,6 +106,7 @@
 	}
 
 	.keyboard .double {
+		font-size: 0.875rem;
 		width: 3.75rem;
 	}
 
