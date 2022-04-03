@@ -34,7 +34,7 @@
 	height: 3.8rem;
 
 	color: #D7DADD;
-	font-size: 16px;
+	font-size: 14px;
 
 	border-width: 1px;
 	border-radius: 6px;
@@ -77,7 +77,7 @@
 }
 
 .keyboard .enter {
-	font-size: 1rem;
+	font-size: 0.875rem;
 }
 
 /* KEYBOARD RESPONSIVE */
