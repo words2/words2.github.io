@@ -13189,9 +13189,6 @@ const judgeResult = () => {
   if (noAccents(word) === noAccentSolution) {
     animateTileDance(currentRow());
 
-    // heck yeah!
-    setTimeout(() => confetti(), 1500);
-
     // tooltip
     setTimeout(() => {
       if (tries === 1) tooltip('WOW!');
