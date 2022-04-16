@@ -68,16 +68,16 @@
 /* RESPONSIVE */
 @media only screen and (max-width: 600px) {
 	.board .tile {
-		width: 3.92rem;
-		height: 3.92rem;
+		width: 3.91rem;
+		height: 3.91rem;
 		/* line-height: 3.5rem; */
 	}
 }
 
 @media only screen and ((max-height: 700px) or (max-width: 480px)) {
 	.board .tile {
-		width: 3.42rem;
-		height: 3.42rem;
+		width: 3.41rem;
+		height: 3.41rem;
 		/* line-height: 3rem; */
 	}
 }
