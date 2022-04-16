@@ -63,7 +63,6 @@
 .keyboard .tile.present,
 .keyboard .tile.wrong {
 	color: white;
-	border: 1px solid #121213;
 }
 
 .keyboard .double {
