@@ -51,12 +51,12 @@
 }
 
 .keyboard .tile:not(.present, .correct, .wrong, .double) {
-	background: #818385;
+	background: #747474;
 }
 
 .keyboard .tile:not(.present, .correct, .wrong, .double):hover,
 .keyboard .tile:not(.present, .correct, .wrong, .double):active {
-	background: #B0B0B0;
+	background: #818385;
 }
 
 .keyboard .tile.correct,
@@ -68,7 +68,7 @@
 
 .keyboard .double {
 	width: 4.4rem;
-	background: #818385;
+	background: #747474;
 }
 
 .keyboard .large {

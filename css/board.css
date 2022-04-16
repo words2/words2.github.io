@@ -34,15 +34,15 @@
 	font-weight: 600;
 	text-transform: uppercase;
 
-	width: 4.25rem;
-	height: 4.25rem;
+	width: 4.3rem;
+	height: 4.3rem;
 	/* line-height: 4rem; */
 
 	display: flex;;
 	align-items: center;
 	justify-content: center;
 
-	border: 2px solid #4A4B4C;
+	border: 2px solid #393A3B;
 	/* background: #121213; */
 }
 
@@ -51,8 +51,8 @@
 }
 
 .wrong {
-	border-color: #4A4B4C;
-	background-color: #4A4B4C;
+	border-color: #393A3B;
+	background-color: #393A3B;
 }
 
 .present {
@@ -68,16 +68,16 @@
 /* RESPONSIVE */
 @media only screen and (max-width: 600px) {
 	.board .tile {
-		width: 3.65rem;
-		height: 3.65rem;
+		width: 3.7rem;
+		height: 3.7rem;
 		/* line-height: 3.5rem; */
 	}
 }
 
 @media only screen and ((max-height: 700px) or (max-width: 480px)) {
 	.board .tile {
-		width: 3.15rem;
-		height: 3.15rem;
+		width: 3.2rem;
+		height: 3.2rem;
 		/* line-height: 3rem; */
 	}
 }
