@@ -14,7 +14,7 @@ header p {
 }
 
 header h1 {
-	color: #818385;
+	color: #4A4B4C;
 	font-size: 1.75rem;
 	font-weight: 900;
 	letter-spacing: 0.15rem;
@@ -25,12 +25,12 @@ header h1 {
 }
 
 header p {
-	color: #818385;
+	color: #4A4B4C;
 	font-size: 16px;
 }
 
 header span {
-	color: #818385;
+	color: #4A4B4C;
 	padding: 3px 6px;
 	border-radius: 2px;
 }
@@ -42,7 +42,7 @@ header a {
 /* HEADER RESPONSIVE */
 @media only screen and (max-width: 600px) {
 	header h1 {
-		color: #818385;
+		color: #4A4B4C;
 		font-size: 1.5rem;
 		letter-spacing: 0.05rem;
 	}
@@ -52,7 +52,7 @@ header a {
 	}
 
 	header p span {
-		color: #818385;
+		color: #4A4B4C;
 		padding: 1px 2px;
 		border-radius: 1px;
 	}
