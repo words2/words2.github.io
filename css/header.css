@@ -43,12 +43,12 @@ header a {
 @media only screen and (max-width: 600px) {
 	header h1 {
 		color: #4A4B4C;
-		font-size: 1.5rem;
+		font-size: 2rem;
 		letter-spacing: 0.05rem;
 	}
 
 	header p {
-		font-size: 0.85rem;
+		font-size: 1rem;
 	}
 
 	header p span {
