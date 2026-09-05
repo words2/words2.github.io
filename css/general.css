@@ -10,7 +10,7 @@ body {
 	font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
 	text-align: center;
 
-	background: #121213;
+	background: linear-gradient(to bottom, #1c1c1c, #000) !important;
 
 	display: flex;
 	flex-direction: column;
