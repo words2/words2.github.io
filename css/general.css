@@ -28,6 +28,7 @@ html {
 .tooltip {
   color: black;
   font-weight: 900;
+  font-family: Avenir;	
   background-color: linear-gradient(to bottom, #1e1e1e, #000);
   text-transform: uppercase;
 
