@@ -35,7 +35,7 @@
 
 	color: #D7DADD;
 	font-size: 15px;
-
+    font-family: Avenir;
 	border-width: 1px;
 	border-radius: 6px;
 	border-color: #121213;
@@ -77,6 +77,7 @@
 
 .keyboard .enter {
 	font-size: 15px;
+	font-family: Avenir;
 }
 
 /* KEYBOARD RESPONSIVE */
@@ -111,6 +112,7 @@
 
 	.keyboard .enter {
 		font-size: 0.875rem;
+		font-family: Avenir;
 	}
 
 }
@@ -119,6 +121,7 @@
 @media only screen and ((max-width: 480px) or (max-height: 700px)) {
 	.keyboard .tile {
 		font-size: 0.875rem;
+		font-family: Avenir;
 		width: 2.1rem;
 		height: 3rem;
 	}
